@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 20.01.21
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did a few codingame live challenges and continued to work on the skynet revolution puzzle. I managed to get half of the tests to pass and should be able to complete it next time I work on it. Started creating a pre-existing allotment website in React and created some base components. Continued reading Javascript.info ebook - Object methods and completed the 2 exercises.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**: The skynet challenge is pushing me to think in new ways which is good. I will try to do more of the allotment website tomorrow though, perhaps I spent a little too long "productively procrastinating" on codingame.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+1. https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1
+2. https://javascript.info/keys-values-entries
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Time Spent**: Around 4-5 hours.
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Template
+### Day X: Date
+##### Subtitle
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+**Time Spent**:
