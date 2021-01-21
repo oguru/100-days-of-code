@@ -10,8 +10,18 @@
 1. https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1
 2. https://javascript.info/keys-values-entries
 
-**Time Spent**: Around 4-5 hours.
+**Time Spent**: Around 5 hours.
 
+
+### Day 2: 21.02.21
+
+**Today's Progress**: Spent most of the time on the allotment website. Read up on React Router and React Bootstrap to try in this project and started to implement. Did a few codingame clashes and a little more work on the skynet puzzle.
+
+**Thoughts**: I used normal Bootstrap in the original Umbraco project and didn't realise React Bootstrap comes with a little more of a learning curve, so I didn't get to do as much coding as I'd have liked but I have gotten started. I am surprised at my progress on the codingame live clashes recently, my Javascript reading over the holidays has improved my skills significantly, it's saying i'm now in the top 3%!
+
+**Link(s) to work**: https://github.com/oguru/allotments
+
+**Time Spent**: 9 hours.
 
 
 ### Template
