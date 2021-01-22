@@ -13,7 +13,7 @@
 **Time Spent**: Around 5 hours.
 
 
-### Day 2: 21.02.21
+### Day 2: 21.01.21
 
 **Today's Progress**: Spent most of the time on the allotment website. Read up on React Router and React Bootstrap to try in this project and started to implement. Did a few codingame clashes and a little more work on the skynet puzzle.
 
@@ -22,6 +22,15 @@
 **Link(s) to work**: https://github.com/oguru/allotments
 
 **Time Spent**: 9 hours.
+
+
+### Day 3: 22.01.21
+
+**Today's Progress**: Designed and built an encryption/decryption coding challenge for codingame (not published yet as there is an issue with unicode). Did quite a few live clashes of code and spent some more time on the skynet puzzle.
+
+**Thoughts**: Wasn't feeling up to working on the allotment site so I did the above. It was fun creating a challenge, I went through many ideas and versions before settling on the one I finished. The skynet puzzle is still only passing half the tests but I did make some breakthroughs in my understanding of it and refactored a lot.
+
+**Time Spent**: 7.5 hours.
 
 
 ### Template
