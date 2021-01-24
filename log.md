@@ -33,6 +33,23 @@
 **Time Spent**: 7.5 hours.
 
 
+### Day 4: 23.01.21
+
+**Today's Progress**: Worked on the Skynet puzzle
+
+**Thoughts**: Didn't get much time today so i worked on the skynet puzzle on codingame again. It is more difficult than i anticipated! I've rewritted the code in a different way as I worked out what I was doing before couldn't work.
+
+**Time Spent**: 1.5 hours.
+
+
+### Day 5: 24.01.21
+
+**Today's Progress**: Worked on the Skynet puzzle on Codingame
+
+**Thoughts**: I think this puzzle might make me go insane but i'm loving it, it's going to be so satisfying when I crack it! It's getting confusing naming and keeping track of things but it's making me think more about structure and how to optimise it.
+
+**Time Spent**: 1.5 hours.
+
 ### Template
 ### Day X: Date
 ##### Subtitle
