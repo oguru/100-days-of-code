@@ -50,6 +50,17 @@
 
 **Time Spent**: 1.5 hours.
 
+
+### Day 6: 25.01.21
+
+**Today's Progress**: Did some work on the allotment website and a little on codingame.
+
+**Thoughts**: Had some issues with CSS today, I have been focusing on Javascript which has improved but CSS and React may need some attention. Was also quite tired so wasn't as efficient as I normally am.
+
+**Link(s) to work**: https://github.com/oguru/allotments
+
+**Time Spent**: 7 hours
+
 ### Template
 ### Day X: Date
 ##### Subtitle
