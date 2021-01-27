@@ -73,6 +73,17 @@
 **Time Spent**: 5 hours
 
 
+### Day 8: 27.01.21
+
+**Today's Progress**: Reworked my Clash of Code puzzle and submitted it on Codingame.
+
+**Thoughts**: Happy with the outcome but not sure if it's too complicated for a 5-15 minute challenge.
+
+**Link(s) to work**: https://www.codingame.com/contribute/view/614688ae4491baff55b789b50e736aebfe0e
+
+**Time Spent**: 4 hours
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
