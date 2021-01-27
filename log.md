@@ -61,6 +61,18 @@
 
 **Time Spent**: 7 hours
 
+
+### Day 7: 26.01.21
+
+**Today's Progress**: Did some work on the allotment website and completed the Skynet puzzle.
+
+**Thoughts**: Managed to complete the skynet episode 1 challenge today and it felt amazing! Also did a little work on the allotment page.
+
+**Link(s) to work**: https://github.com/oguru/allotments, https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1
+
+**Time Spent**: 5 hours
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
