@@ -84,6 +84,17 @@
 **Time Spent**: 5.5 hours
 
 
+### Day 9: 28.01.21
+
+**Today's Progress**: Acted on feedback from my Clash of Code puzzle, reworked it and re-submitted it on Codingame. Did some work on allotment site.
+
+**Thoughts**: Spent a lot of time on reworking the puzzle which was a little frustrating as it was mostly finding correct values for the new documentation. I decided to back out from using bootstrap react as it was taking too long to do anything due to having to constantly check documentation. The goal was to make something quickly rather than learn something new. Not the most productive day in terms of results but that's ok.
+
+**Link(s) to work**: https://www.codingame.com/contribute/view/614688ae4491baff55b789b50e736aebfe0e, https://github.com/oguru/allotments
+  
+**Time Spent**: 6 hours
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
