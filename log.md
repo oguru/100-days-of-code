@@ -95,6 +95,26 @@
 **Time Spent**: 6 hours
 
 
+### Day 10: 29.01.21
+
+**Today's Progress**: Worked on allotment site
+
+**Thoughts**: Took out react-bootstrap components and removed it. Decided to keep vanilla bootstrap for styling only.
+
+**Time Spent**: 3 hours
+
+
+### Day 11: 30.01.21
+
+**Today's Progress**: Worked on allotment site
+
+**Thoughts**: Didn't spend long but worked on the navbar styling.
+
+**Link(s) to work**: https://www.codingame.com/contribute/view/614688ae4491baff55b789b50e736aebfe0e, https://github.com/oguru/allotments
+
+**Time Spent**: 1 hour
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
