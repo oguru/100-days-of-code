@@ -115,6 +115,24 @@
 **Time Spent**: 1 hour
 
 
+### Day 12: 31.01.21
+
+**Today's Progress**: Worked on allotment site
+
+**Time Spent**: 1 hour
+
+
+### Day 13: 01.02.21
+
+**Today's Progress**: Worked on allotment site, mostly on responsive nav.
+
+**Thoughts**: Didn't spend long again, hoping to get back into it properly tomorrow.
+
+**Link(s) to work**: https://github.com/oguru/allotments
+
+**Time Spent**: 1.5 hours
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
