@@ -133,6 +133,28 @@
 **Time Spent**: 1.5 hours
 
 
+### Day 14: 02.02.21
+
+**Today's Progress**: Worked on allotment site. Did some codingame clashes
+
+**Thoughts**: Spent longer today, ran into some issues with CSS though.
+
+**Link(s) to work**: https://github.com/oguru/allotments
+
+**Time Spent**: 6.5 hours
+
+
+### Day 15: 03.02.21
+
+**Today's Progress**: Worked on allotment site. Did some codingame clashes
+
+**Thoughts**: Spent longer today, ran into some issues with CSS though.
+
+**Link(s) to work**: https://github.com/oguru/allotments
+
+**Time Spent**: 6.5 hours
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
