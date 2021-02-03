@@ -148,11 +148,13 @@
 
 **Today's Progress**: Worked on allotment site. Did some codingame clashes
 
-**Thoughts**: Spent longer today, ran into some issues with CSS though.
+**Thoughts**: CSS issue from yesterday disappeared, must have been a bug. Focussed mostly on nav styling and colour palette today.
 
 **Link(s) to work**: https://github.com/oguru/allotments
 
-**Time Spent**: 6.5 hours
+**Time Spent**: 6 hours
+
+
 
 
 ### Template
