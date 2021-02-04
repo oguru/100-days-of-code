@@ -155,6 +155,15 @@
 **Time Spent**: 6 hours
 
 
+### Day 16: 04.02.21
+
+**Today's Progress**: Worked on allotment site. Finished the navbar styling and responsiveness.
+
+**Thoughts**: I'm quite satisfied with the progress I made today, went through a few different style variations and settled on something I quite like. First time using react router and can't get homepage to show from build for some reason. Link below if anyone is interested.
+
+**Link(s) to work**: https://allotments-31a31.firebaseapp.com/articles
+
+**Time Spent**: 7.5 hours
 
 
 ### Template
