@@ -166,6 +166,24 @@
 **Time Spent**: 7.5 hours
 
 
+### Day 17: 05.02.21
+
+**Today's Progress**: Worked on allotment site and did a few codingame clashes. 
+
+**Thoughts**: Mostly cleaned up code for the navbar so I can push and merge with the master.
+
+**Time Spent**: 5 hours
+
+
+### Day 18: 06.02.21
+
+**Today's Progress**: Not much time today and it was just before bed. Didn't really manage to do any coding. Tried to fix an issue with ESLint and wrote a post on Reddit for help, then tried to merge master branch of project into the navbar branch and everything appears to be mixed up.
+
+**Thoughts**: Not very happy with todays progress as I accomplished nothing and seem to have a lot of issues to fix, but i'm sure i will manage to get it all done tomorrow.
+
+**Time Spent**: 1 hour
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
