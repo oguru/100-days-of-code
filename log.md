@@ -184,6 +184,23 @@
 **Time Spent**: 1 hour
 
 
+### Day 19: 07.02.21
+
+**Today's Progress**: Fixed merge conflicts and did some more code cleanup. Read about testing. Not much time today either so only did an hour again and incredibly tired. Merge conflicts are sorted so I can focus on testing tomorrow and then hopefully merging the Navbar.
+
+**Thoughts**: Not very happy with todays progress as I accomplished nothing and seem to have a lot of issues to fix, but i'm sure i will manage to get it all done tomorrow.
+
+**Time Spent**: 1 hour
+
+
+### Day 20: 08.02.21
+
+**Today's Progress**: Started refamiliarising myself with testing and following a course to make sure i do it properly.
+
+**Thoughts**: Bit of a tough day as ran into some problems that weren't easy to decipher but it should be donen now
+
+**Time Spent**: 2 hours
+
 ### Template
 ### Day X: Date
 ##### Subtitle
