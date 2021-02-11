@@ -224,6 +224,16 @@
 
 **Time Spent**: 1 hour
 
+
+### Day 22: 12.02.21
+
+**Today's Progress**: Watched some testing tutorials and added some Navbar tests.
+
+**Thoughts**: It was ok, more productive than the last few days.
+
+**Time Spent**: 4 hours
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
