@@ -197,9 +197,32 @@
 
 **Today's Progress**: Started refamiliarising myself with testing and following a course to make sure i do it properly.
 
-**Thoughts**: Bit of a tough day as ran into some problems that weren't easy to decipher but it should be donen now
+**Thoughts**: Bit of a tough day as ran into some problems that weren't easy to decipher but it should be done now
 
 **Time Spent**: 2 hours
+
+
+### Day 21: 09.02.21
+
+**Today's Progress**: Had some issues with getting enzyme working but managed to do it.
+
+**Thoughts**: Not a very productive day, feeling tired and off.
+
+**Time Spent**: 1 hour
+
+
+### Day 22: 10.02.21
+
+**Today's Progress**: Didn't do anything today due to mental health.
+
+
+### Day 22: 11.02.21
+
+**Today's Progress**: Had some issues with getting enzyme working but managed to do it.
+
+**Thoughts**: Not a very productive day, feeling tired and off.
+
+**Time Spent**: 1 hour
 
 ### Template
 ### Day X: Date
