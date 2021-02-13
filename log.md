@@ -218,20 +218,29 @@
 
 ### Day 22: 11.02.21
 
-**Today's Progress**: Had some issues with getting enzyme working but managed to do it.
+**Today's Progress**: Continued with testing and added some extra needed media query to Navbar.
 
-**Thoughts**: Not a very productive day, feeling tired and off.
+**Thoughts**: Had to really push myself but I managed to do some.
 
-**Time Spent**: 1 hour
+**Time Spent**: 2.5 hours
 
 
-### Day 22: 12.02.21
+### Day 23: 12.02.21
 
-**Today's Progress**: Watched some testing tutorials and added some Navbar tests.
+**Today's Progress**: Continued reading about and adding tests, and fixed ESLint.
 
-**Thoughts**: It was ok, more productive than the last few days.
+**Thoughts**: Spent a lot longer than I wanted fixing ESLint and trying to figure out how to do certain tests. ESLint is fixed though and I posted about testing styling on reddit.
 
-**Time Spent**: 4 hours
+**Time Spent**: 9 hours
+
+
+### Day 24: 13.02.21
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Time Spent**: 
 
 
 ### Template
