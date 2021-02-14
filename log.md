@@ -236,11 +236,11 @@
 
 ### Day 24: 13.02.21
 
-**Today's Progress**: 
+**Today's Progress**: More test reading
 
-**Thoughts**: 
+**Thoughts**: Still trying to figure out how to get a certain test working.
 
-**Time Spent**: 
+**Time Spent**: 2 hours
 
 
 ### Template
