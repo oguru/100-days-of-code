@@ -243,6 +243,24 @@
 **Time Spent**: 2 hours
 
 
+### Day 25: 14.02.21
+
+**Today's Progress**: More test reading
+
+**Thoughts**: Still trying to figure out how to get a certain test working. Posted on Reddit.
+
+**Time Spent**: 2 hours
+
+
+### Day 26: 15.02.21
+
+**Today's Progress**: Continued testing NavBar and started NavLink.
+
+**Thoughts**: No response to previous 2 testing posts on Reddit so I moved on with the tests I can do.
+
+**Time Spent**: 10.5 hours
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
