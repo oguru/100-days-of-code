@@ -261,6 +261,24 @@
 **Time Spent**: 10.5 hours
 
 
+### Day 27: 16.02.21
+
+**Today's Progress**: Refactored routes, completed changes on NavBar, then home and merged all branches with master.
+
+**Thoughts**: Very happy with progress today.
+
+**Time Spent**: 10.5 hours
+
+
+### Day 28: 17.02.21
+
+**Today's Progress**: Worked on page transitions and hero including animations.
+
+**Thoughts**: Very happy with progress today.
+
+**Time Spent**: 10:45 hours
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
