@@ -276,7 +276,7 @@
 
 **Thoughts**: Very happy with progress today.
 
-**Time Spent**: 10:45 hours
+**Time Spent**: 6hrs 45mins
 
 
 ### Template
