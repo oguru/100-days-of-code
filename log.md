@@ -281,7 +281,7 @@
 
 ### Day 28: 17.02.21
 
-**Today's Progress**: Continued trying to get conditional render based on image pre-caching working but nothing works.
+**Today's Progress**: Continued trying to get conditional render based on image pre-caching working but I can't figure it out.
 
 **Thoughts**: Didn't get even 1 step closer and didn't accomplish anything today, not happy.
 
