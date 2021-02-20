@@ -279,13 +279,31 @@
 **Time Spent**: 6hrs 45mins
 
 
-### Day 28: 17.02.21
+### Day 29: 18.02.21
 
 **Today's Progress**: Continued trying to get conditional render based on image pre-caching working but I can't figure it out.
 
 **Thoughts**: Didn't get even 1 step closer and didn't accomplish anything today, not happy.
 
 **Time Spent**: 5hrs 30mins
+
+
+### Day 30: 19.02.21
+
+**Today's Progress**: Continued trying to get conditional render based on image pre-caching. Managed to implement lazy loading image
+
+**Thoughts**: Made some progress today.
+
+**Time Spent**: 4hrs?
+
+
+### Day 31: 20.02.21
+
+**Today's Progress**: Finally got pre-caching working with loading spinner
+
+**Thoughts**: Very happy I managed to get it all working.
+
+**Time Spent**: 5.5hrs
 
 
 ### Template
