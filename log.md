@@ -306,6 +306,24 @@
 **Time Spent**: 5.5hrs
 
 
+### Day 32: 21.02.21
+
+**Today's Progress**: Spent some time reading about a test i'm trying to implement.
+
+**Thoughts**: Didn't get anything done today.
+
+**Time Spent**: 3hrs
+
+
+### Day 33: 22.02.21
+
+**Today's Progress**: Spent a lot more time reading about the same test and trying different solutions with no success. Posted on SO and continued with some other tests.
+
+**Thoughts**: Quite tired today and a little frustrated I didn't accomplish much.
+
+**Time Spent**: 5.5hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
