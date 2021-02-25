@@ -324,6 +324,33 @@
 **Time Spent**: 5.5hrs
 
 
+### Day 34: 23.02.21
+
+**Today's Progress**: Continued with testing
+
+**Thoughts**: Feeling a little down so didn't do as much. I have realised now it's better for me to put a time limit on finding solutions to certain tests before the site is built as it doesn't help with motivation and stress levels.
+
+**Time Spent**: 3hrs
+
+
+### Day 35: 24.02.21
+
+**Today's Progress**: Continued with testing and tweaking Hero and HeroImage. Finished and merged in with master
+
+**Thoughts**: Happy to have finished the branch and excited to start working on the articles.
+
+**Time Spent**: 4hrs
+
+
+### Day 36: 25.02.21
+
+**Today's Progress**: Started on the Articles branch today. I worked out a pattern for storing article data so that i can map it out into an article.
+
+**Thoughts**: Happy with today. I made a good start on solving how I will show the article previews and each article and did some basic animation.
+
+**Time Spent**: 7hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
