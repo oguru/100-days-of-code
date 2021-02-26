@@ -351,6 +351,14 @@
 **Time Spent**: 7hrs
 
 
+### Day 37: 26.02.21
+
+**Today's Progress**: Continued building articles, article box and article components.
+
+**Thoughts**: Was quite tired and unfocussed today but managed to get a bit done.
+
+**Time Spent**: 2hrs
+
 ### Template
 ### Day X: Date
 ##### Subtitle
