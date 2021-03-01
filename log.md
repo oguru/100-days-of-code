@@ -359,6 +359,30 @@
 
 **Time Spent**: 2hrs
 
+
+### Day 38: 27.02.21
+
+**Today's Progress**: Continued with article components.
+
+**Time Spent**: 2.5hrs
+
+
+### Day 39: 28.02.21
+
+**Today's Progress**: Continued with article components.
+
+**Thoughts**: Was feeling off but managed to get a bit done.
+
+**Time Spent**: 2hrs
+
+
+### Day 40: 01.03.21
+
+**Today's Progress**: Fixed an issue with articles and worked on article box design.
+
+**Time Spent**: 3hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
