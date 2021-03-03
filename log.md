@@ -383,6 +383,24 @@
 **Time Spent**: 3hrs
 
 
+### Day 41: 02.03.21
+
+**Today's Progress**: Did the article box style following the new design.
+
+**Thoughts**: Pretty happy with it but needs a little tweaking.
+
+**Time Spent**: 2hrs
+
+
+### Day 42: 03.03.21
+
+**Today's Progress**: Worked on the article layout.
+
+**Thoughts**: Created a template that should work well for any article I add to the data array.
+
+**Time Spent**: 3.5hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
