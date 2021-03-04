@@ -401,6 +401,15 @@
 **Time Spent**: 3.5hrs
 
 
+### Day 43: 04.03.21
+
+**Today's Progress**: Completed article box.
+
+**Thoughts**: Had fun solving the problem of ellipsis and expanding text box on hover with proper timings.
+
+**Time Spent**: 5hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
