@@ -410,6 +410,15 @@
 **Time Spent**: 5hrs
 
 
+### Day 44: 05.03.21
+
+**Today's Progress**: Worked on article and the transition between articles page and single article.
+
+**Thoughts**: Quite happy with the progress I made today, everything is coming together and looking much nicer.
+
+**Time Spent**: 8.5hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
