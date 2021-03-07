@@ -419,6 +419,24 @@
 **Time Spent**: 8.5hrs
 
 
+### Day 45: 06.03.21
+
+**Today's Progress**: Worked on articles component and learnt a little Python/Selenium.
+
+**Thoughts**: Articles transition is built in a way that means it scrolls to the top before bringing the article in (or is scrolled in the article). I will implement CSS Transition Group so I can avoid the jarring scroll/transition halfway through an article.
+
+**Time Spent**: 2hrs
+
+
+### Day 46: 07.03.21
+
+**Today's Progress**: Did a little automation with Selenium/Python and started changing articles transition from custom to CSS Transition Group.
+
+**Thoughts**: Transition works but styles are a little broken but I'll be able to finish it tomorrow.
+
+**Time Spent**: 2.5hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
