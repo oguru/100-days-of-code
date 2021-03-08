@@ -437,6 +437,15 @@
 **Time Spent**: 2.5hrs
 
 
+### Day 47: 08.03.21
+
+**Today's Progress**: Experimented with different types of transitions and automated scrolling.
+
+**Thoughts**: Fixed the old styles but have some glitchy occasional issues with the new style i tried today. I may go back to the old style but animate the scrolling duration so it's all smooth.
+
+**Time Spent**: 8hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
