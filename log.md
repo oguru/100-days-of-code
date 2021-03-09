@@ -446,6 +446,15 @@
 **Time Spent**: 8hrs
 
 
+### Day 48: 09.03.21
+
+**Today's Progress**: Found a site breaking bug. Spent hours trying to fix it and finally managed in the end.
+
+**Thoughts**: I was very tired and unmotivated today and being stuck didn't help. However I persevered and found the solution!
+
+**Time Spent**: 4hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
