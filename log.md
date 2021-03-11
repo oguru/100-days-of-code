@@ -455,6 +455,24 @@
 **Time Spent**: 4hrs
 
 
+### Day 49: 10.03.21
+
+**Today's Progress**: Merged off branch test into the articles branch and fixed some styles.
+
+**Thoughts**: I was very tired and unmotivated today and being stuck didn't help. However I persevered and found the solution!
+
+**Time Spent**: 4hrs
+
+
+### Day 50: 11.03.21
+
+**Today's Progress**: Spent a lot of time finding and compressing images so not much time to code. I did do a bit of restructuring of image groupings and renaming some things more appropriately. Read a little bit on object destructuring. 
+
+**Thoughts**: Day 50 today, hit the halfway mark and very happy I decided to do this challenge!
+
+**Time Spent**: 5hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
