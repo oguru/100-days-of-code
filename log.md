@@ -473,6 +473,20 @@
 **Time Spent**: 5hrs
 
 
+### Day 51: 12.03.21
+
+**Today's Progress**: More image optimisation and building articles. 
+
+**Time Spent**: 3.5hrs
+
+
+### Day 52: 13.03.21
+
+**Today's Progress**: Build more functionality into articles builder to add more customisation to creating articles. 
+
+**Time Spent**: 5.5hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
