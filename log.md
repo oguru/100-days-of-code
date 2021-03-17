@@ -487,6 +487,34 @@
 **Time Spent**: 5.5hrs
 
 
+### Day 53: 14.03.21
+
+**Today's Progress**: Added more articles to the project and changed layout to grid.
+
+**Time Spent**: 5hrs
+
+
+### Day 54: 15.03.21
+
+**Today's Progress**: Was feeling down so didn't do much. 
+
+**Time Spent**: 5hrs
+
+
+### Day 55: 16.03.21
+
+**Today's Progress**: Didn't do anything today... because I finally got a job!!!!!!
+
+
+### Day 55: 17.03.21
+
+**Today's Progress**: Worked on improving the grid layout and added a transitioning up arrow to the article boxes. 
+
+**Thoughts**: Almost finished the articles section now, exciting!
+
+**Time Spent**: 1hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
