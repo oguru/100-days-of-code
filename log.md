@@ -505,6 +505,8 @@
 
 **Today's Progress**: Didn't do anything today... because I finally got a job!!!!!!
 
+**Time Spent**: 0hrs
+
 
 ### Day 55: 17.03.21
 
@@ -513,6 +515,34 @@
 **Thoughts**: Almost finished the articles section now, exciting!
 
 **Time Spent**: 1hrs
+
+
+### Day 56: 18.03.21
+
+**Today's Progress**: Continued with articles component. 
+
+**Time Spent**: 1hr
+
+
+### Day 57: 19.03.21
+
+**Today's Progress**: Continued with articles component. 
+
+**Time Spent**: 1hr
+
+
+### Day 58: 20.03.21
+
+**Today's Progress**: Stayed out later than I thought and ended up not doing anything... 
+
+**Time Spent**: 0hrs
+
+
+### Day 58: 21.03.21
+
+**Today's Progress**: Continued with articles 
+
+**Time Spent**: 1hr
 
 
 ### Template
