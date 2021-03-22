@@ -545,6 +545,15 @@
 **Time Spent**: 1hr
 
 
+### Day 59: 22.03.21
+
+**Today's Progress**: Tried to do some automation with Selenium on the vegan society project. 
+
+**Thoughts**: Didn't get much done but think i've found a solution to the bit i was working on.
+
+**Time Spent**: 1hr
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
