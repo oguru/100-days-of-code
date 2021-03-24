@@ -554,6 +554,15 @@
 **Time Spent**: 1hr
 
 
+### Day 60: 23.03.21
+
+**Today's Progress**: Mostly completed the automation on the vegan society project, and did a little on the allotment site
+
+**Thoughts**: All good.
+
+**Time Spent**: 2hr 15
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
