@@ -563,6 +563,24 @@
 **Time Spent**: 2hr 15
 
 
+### Day 61: 24.03.21
+
+**Today's Progress**: Did some bugfixing and tweaking on allotment site.
+
+**Thoughts**: All good.
+
+**Time Spent**: 3hrs 30
+
+
+### Day 62: 25.03.21
+
+**Today's Progress**: Worked on info page on allotment site.
+
+**Thoughts**: Got a decent amount done today.
+
+**Time Spent**: 6hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
