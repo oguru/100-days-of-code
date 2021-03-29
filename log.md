@@ -581,6 +581,34 @@
 **Time Spent**: 6hrs
 
 
+### Day 63: 26.03.21
+
+**Today's Progress**: Got quite a bit done on the info page.
+
+**Time Spent**: 13hrs
+
+
+### Day 64: 27.03.21
+
+**Today's Progress**: Started a Vue crash course.
+
+**Time Spent**: 3hrs
+
+
+### Day 65: 28.03.21
+
+**Today's Progress**: Finished Vue crash course.
+
+**Time Spent**: 3hrs
+
+
+### Day 66: 29.03.21
+
+**Today's Progress**: First day of work today! Started another Vue course.
+
+**Time Spent**: 5hrs
+
+
 ### Template
 ### Day X: Date
 ##### Subtitle
