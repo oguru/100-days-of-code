@@ -609,6 +609,40 @@
 **Time Spent**: 5hrs
 
 
+### Day 67: 30.03.21
+
+**Today's Progress**: Continued learning Vue.
+
+**Time Spent**: 11hrs
+
+
+### Day 68: 31.03.21
+
+**Today's Progress**: Continued learning Vue. Started building mini projects
+
+**Time Spent**: 12hrs
+
+
+### Day 69: 01.03.21
+
+**Today's Progress**: Continued learning Vue.
+
+**Time Spent**: 11hrs
+
+
+### Day 70: 02.03.21
+
+**Today's Progress**: Continued with allotment site.
+
+**Time Spent**: 8hrs
+
+
+### Day 71: 03.03.21
+
+**Today's Progress**: Continued with allotment site, almost finished MVP.
+
+**Time Spent**: 5hrs
+
 ### Template
 ### Day X: Date
 ##### Subtitle
