@@ -623,25 +623,34 @@
 **Time Spent**: 12hrs
 
 
-### Day 69: 01.03.21
+### Day 69: 01.04.21
 
 **Today's Progress**: Continued learning Vue.
 
 **Time Spent**: 11hrs
 
 
-### Day 70: 02.03.21
+### Day 70: 02.04.21
 
 **Today's Progress**: Continued with allotment site.
 
 **Time Spent**: 8hrs
 
 
-### Day 71: 03.03.21
+### Day 71: 03.04.21
 
 **Today's Progress**: Continued with allotment site, almost finished MVP.
 
 **Time Spent**: 5hrs
+
+
+### Day 72-80: 04-12.04.21
+
+**Progress**: Finished MVP of allotment site, learnt a decent amount of Vue and some Typescript, started making a turn based battle game using Vue + TS.
+
+**Today's Progress**: I still have a lot to learn about Vue, and Typescript in particular but I'm quite happy with what i've done over this time.
+
+**Time Spent**: 50hrs
 
 ### Template
 ### Day X: Date
