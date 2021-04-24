@@ -648,9 +648,19 @@
 
 **Progress**: Finished MVP of allotment site, learnt a decent amount of Vue and some Typescript, started making a turn based battle game using Vue + TS.
 
-**Today's Progress**: I still have a lot to learn about Vue, and Typescript in particular but I'm quite happy with what i've done over this time.
+**Progress**: I still have a lot to learn about Vue, and Typescript in particular but I'm quite happy with what i've done over this time.
 
 **Time Spent**: 50hrs
+
+
+### Day 81-91: 13-23.04.21
+
+**Progress**: Continued with the battle game, learnt some more Vue, Vuex, i18n and Vuetify. Wrote a readme for work frontend and implementing internationalisation.
+
+**Today's Progress**: Things are making more sense. I started to burn out a little as I was pretty much just working most of the time so i'm making sure I take some time for myself as well.
+
+**Time Spent**: 50hrs
+
 
 ### Template
 ### Day X: Date
