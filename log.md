@@ -662,14 +662,10 @@
 **Time Spent**: 50hrs
 
 
-### Template
-### Day X: Date
-##### Subtitle
+### Day 92-100: 24.04.21 - 03.05.21
 
-**Today's Progress**: 
+**Progress**: 1 day off before the end. Continued with the battle game and completed internationalisation ticket.
 
-**Thoughts**: 
+**Today's Progress**: Finished!
 
-**Link(s) to work**: 
-
-**Time Spent**:
+**Time Spent**: 42hrs
